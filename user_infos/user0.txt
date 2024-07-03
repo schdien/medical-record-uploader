@@ -13,7 +13,7 @@ Content-Length:
 Content-Type:
 multipart/form-data; boundary=----WebKitFormBoundaryS5xDJkQYOpgrb0N3
 Cookie:
-ASP.NET_SessionId=vflmuzzdwl5a5sfjwgnxgu55; MyCook4=userid=4e7892c7-5d0d-4b0c-8f1b-e6f0997dfbe6
+***************************
 Host:
 222.180.163.201:6002
 Origin:
